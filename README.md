@@ -6,7 +6,7 @@ This repository contains the tasks, projects, and progress related to my Full-St
 
 Internship Duration: 10 September 2023 - 10 November 2023
 
-#Offer Letter
+# Offer Letter
 https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:57430f59-8413-3f45-98c4-0235b8699def
 
 # Task
