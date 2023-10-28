@@ -1,1 +1,47 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+    <title>Content Management</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <div id="container">
+        <h1><b><u>Content Management Website</u></b></h1>
+        <div id="addForm">
+            <h2>Add New Post</h2>
+            <form>
+                <input type="text" id="title" required placeholder="Add Title"><br><br>
+                <textarea id="content" required placeholder="Add Content"></textarea><br><br>
+                <div class="options">
+                    <button id="addImage">Add Image</button>
+                    <button id="addVideo">Add Video</button>
+                    <button id="addImageUrl">Add URL</button>
+                    <button id="addVideoUrl">Add URL2</button>
+                </div>
+                <div class="btn-container">
+                    <button type="submit"> Tap to Add</button>
+                </div>
+            </form>
+
+        <div id="posttable">
+            <h2>Posts</h2>
+            <table>
+                <tr>
+                    <th>Title</th>
+                    <th>Content</th>
+                    <th>Actions</th>
+                </tr>
+            </table>
+            <div id="articleContent"></div>
+        </div>
+
+    </div>
+    <div class="copyright">
+        <p>Copyright ©. | All rights reserved.</p>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
