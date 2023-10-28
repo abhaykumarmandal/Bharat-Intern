@@ -1,6 +1,6 @@
 # Bharat-Intern
 
-# About Internship
+# About 
 This repository contains the tasks, projects, and progress related to my Full-Stack Developer Virtual Internship at Bharat Intern.
 
 
