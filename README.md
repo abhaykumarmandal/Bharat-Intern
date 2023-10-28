@@ -1,7 +1,7 @@
 # Bharat-Intern
 
 # About Internship
-This repository contains the tasks, projects, and progress related to my Full-Stack Developer Internship at Bharat Intern.
+This repository contains the tasks, projects, and progress related to my Full-Stack Developer Virtual Internship at Bharat Intern.
 
 
 Internship Duration: 10 October 2023 - 10 November 2023
