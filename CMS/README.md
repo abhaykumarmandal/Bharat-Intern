@@ -5,8 +5,8 @@ A simple web-based content management tool for creating and managing post and bl
 
 # Features
 1. Add new articles with titles and content.
-2. Edit existing articles.
-3. Delete articles.
-4. Embed images and videos within articles.
+2. Edit existing posts.
+3. Delete post.
+4. Embed images and videos.
 5. Responsive design for different screen sizes.
 
