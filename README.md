@@ -1,3 +1,1 @@
-# Bharat-Intern
-
-Content Management Tool
+# Content Management Tool
